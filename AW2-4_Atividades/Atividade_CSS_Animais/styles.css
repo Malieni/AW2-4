@@ -1,0 +1,25 @@
+.alinharTexto2 {
+    font: 100% 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-left: auto;
+    font-size: 40px;
+    }
+
+.alinharTexto {
+    font: 100% 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-left: auto;
+    font-size: 40px;
+    }
+.centralizarImagem {
+    text-align: left;
+    float: right;
+    }
+
+    .image{
+    opacity: 50%;
+    }
+    .image:hover{
+    opacity: 100%
+    }
+    

@@ -1,0 +1,13 @@
+.alinharTexto2 {
+    font: 100% 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-left: auto;
+    font-size: 40px;
+    }
+
+.imagem{
+opacity: 50%;
+}
+.imagem:hover{
+opacity: 100%
+}
